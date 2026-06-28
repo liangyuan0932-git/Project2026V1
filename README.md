@@ -3,7 +3,7 @@ A1**.py is the file that generates the dataset for LoRA fine-tuning procedure. T
 
 A2**.py is the file that generates the dataset for reinforcement learning (RL) procedure.
 
-A3**.py is the file to validate whether the generationg of the RL dataset is successful.
+A3**.py is the file to validate whether the generation of the RL dataset is successful.
 
 A4**.py is the file used for LoRA training procedure.
 
